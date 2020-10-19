@@ -1,0 +1,15 @@
+.slider{
+	display: flex;
+}
+
+.slider .item{
+	width: 350px;
+	height: 250px;
+	margin: 50px;
+}
+
+.slider .item img{
+	width: 350px;
+	height: 250px;
+	
+}
